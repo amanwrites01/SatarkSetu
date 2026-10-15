@@ -1,0 +1,26 @@
+{
+  "name": "satarksetu",
+  "private": true,
+  "version": "1.0.0",
+  "description": "SatarkSetu \u2014 a community bridge against scams. Report phishing, fake sites, scam numbers, fake UPI requests and share stories anonymously.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.1",
+    "vite": "^8.3.0"
+  },
+  "dependencies": {
+    "@react-three/drei": "^10.7.8",
+    "@react-three/fiber": "^9.7.0",
+    "framer-motion": "^13.4.0",
+    "lucide-react": "^1.47.0",
+    "react": "~19.2.0",
+    "react-dom": "~19.2.0",
+    "react-router-dom": "^7.18.4",
+    "three": "^0.186.0"
+  }
+}

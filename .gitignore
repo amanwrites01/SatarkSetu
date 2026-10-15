@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+frontend/node_modules/
+backend/.venv/
+__pycache__/
+*.py[cod]
+
+# builds
+frontend/dist/
+
+# local data & secrets
+data/
+.env
+
+.DS_Store
